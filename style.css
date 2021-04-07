@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    font-size: 50px;
+    font-family: 'Acme', sans-serif;
+    color: cornsilk;
+}
+body{
+    background-color: rgb(98, 98, 221);
+    font-family: 'Acme', sans-serif;
+    color: cornsilk;
+}
+#typedmsg{
+    font-size: 20px;
+}
+#buttn{
+    width: 30%;
+}
+#msg{
+    font-size: 25px;
+
+}
